@@ -1,4 +1,4 @@
-#🧠 Resume Screening and Job Role Classification System
+Resume Screening and Job Role Classification System
 
 A machine learning-powered web application that classifies resume text into job categories such as Data Science, HR, Web Development, etc., using Natural Language Processing (NLP) and a Naive Bayes classifier.
 
